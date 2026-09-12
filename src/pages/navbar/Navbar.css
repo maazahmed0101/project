@@ -1,0 +1,16 @@
+
+.my-logo{
+    overflow: hidden;
+    width: 80px;
+}
+.NavegateBtn{
+    text-decoration: none!important;
+}
+.Text-Navegation{
+    font-family: cursive!important;
+    font-size: x-large!important;
+}
+.BtnContact{
+    border-radius: 60px!important;
+    border: none;
+}

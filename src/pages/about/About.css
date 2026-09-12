@@ -1,0 +1,9 @@
+.AboutSec{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+p{
+    font-family:  monospace;
+    color: red;
+}

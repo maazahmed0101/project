@@ -1,0 +1,16 @@
+/* img{
+    width: 60vh;
+} */
+ body{
+    height: 100vh;
+ }
+ .imgforcontact{
+    width: 62.3vh;
+ }
+ .containerAlignment{
+    /* display: flex; */
+    margin: auto;
+    padding-top: 5vh;
+
+    /* align-items: center; */
+ }
